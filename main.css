@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+
+/* HEADER */
+header {
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    z-index: 1000;
+    background: white;
+    
+}
+
+
+/* FOOTER */
+footer{
+    padding: 20px;
+    flex: 1 1 auto;
+    margin: 0 auto;
+    bottom: 0;
+    z-index: 1000;
+}
+
+
+.header__img {
+    height: 50px;
+    width: 50px;
+}
